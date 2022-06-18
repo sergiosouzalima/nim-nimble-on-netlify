@@ -8,4 +8,4 @@ source "$src_dir/scripts/installnim.sh"
 
 install_nim_check "1.6.6"
 nim -v
-nim c -r "$src_dir/mainapp.nim"
+nim c -r -d:ssl --verbosity:0 --hints:off -d:danger -d:lto --opt:speed "$src_dir/mainapp"

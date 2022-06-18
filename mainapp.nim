@@ -1,4 +1,4 @@
-## Program name........: nimbleDirectoryHtml.nim
+## Program name........: mainapp.nim
 ## Program description.: Creates index.html page, based on
 ##                       Nimble packages Directory (https://nimble.directory/packages.xml).
 ## Author..............: Sergio Lima

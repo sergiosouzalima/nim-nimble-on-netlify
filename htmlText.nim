@@ -83,7 +83,7 @@ proc htmlPagePart4*: string =
       </table>
 
       <article>
-        This website date/time updated: $# <br />
+        This website date/time update: $# <br />
         Nim packages dataset available <a href="https://nimble.directory/packages.xml" target="_blank">here</a>.
       </article>
   </main>

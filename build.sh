@@ -5,11 +5,7 @@ set -u
 
 src_dir="$(dirname "$(readlink -f "${BASH_SOURCE[0]}")")"
 
-apt update -y
-
-apt upgrade -y
-
-apt-get install build-essential -y
+curl -o assets/packages.xml https://nimble.directory/packages.xml
 
 # source "$src_dir/scripts/installnim.sh"
 

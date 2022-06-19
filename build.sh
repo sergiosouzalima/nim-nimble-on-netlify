@@ -5,11 +5,11 @@ set -u
 
 src_dir="$(dirname "$(readlink -f "${BASH_SOURCE[0]}")")"
 
-sudo apt update -y
+apt update -y
 
-sudo apt upgrade -y
+apt upgrade -y
 
-sudo apt-get install build-essential -y
+apt-get install build-essential -y
 
 # source "$src_dir/scripts/installnim.sh"
 

@@ -47,6 +47,7 @@ func htmlPagePart2*: string =
   </style>
 </head>
 """
+
 func htmlPagePart3*: string =
   return """
   <body>

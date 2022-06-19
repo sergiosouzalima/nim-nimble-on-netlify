@@ -11,8 +11,8 @@
 import httpClient, xml, xml/selector, strutils
 import htmlText
 
-let url = "https://www.nimble.directory/packages.xml"
-let xmlFile = "./assets/packages.xml"
+let url = "nimble.directory/packages.xml"
+let xmlFile = "assets/packages.xml"
 let htmlFile = "public/index.html"
 
 proc writeMessageToUser(messageToUser: string) =
@@ -30,7 +30,7 @@ proc downloadXmlFromNimbleDir(url, xmlFile: string) =
     defer: file.close()
     file.write(client.getContent(url))
   except IOError as err:
-    messageToUser = "Failed to download XML: " & err.msg
+    messageToUser = "downloadXmlFromNimbleDir ==> Failed to download XML: " & err.msg
   writeMessageToUser(messageToUser)
 
 func writeHTMLTableRow(seqXmlItems: seq[XmlNode] ): string =

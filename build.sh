@@ -5,7 +5,7 @@ set -u
 
 src_dir="$(dirname "$(readlink -f "${BASH_SOURCE[0]}")")"
 
-curl -o assets/packages.xml https://nimble.directory/packages.xml
+curl -o public/packages.xml https://nimble.directory/packages.xml
 
 # source "$src_dir/scripts/installnim.sh"
 

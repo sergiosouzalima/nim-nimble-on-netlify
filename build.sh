@@ -5,7 +5,7 @@ set -u
 
 src_dir="$(dirname "$(readlink -f "${BASH_SOURCE[0]}")")"
 
-rm public/packages.xml
+# rm public/packages.xml -f
 
 # curl -o public/packages.xml https://nimble.directory/packages.xml
 

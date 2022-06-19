@@ -11,8 +11,8 @@
 import httpClient, xml, xml/selector, strutils
 import htmlText
 
-let url = "http://nimble.directory/packages.xml"
-let xmlFile = "assets/packages.xml"
+let url = "https://www.nimble.directory/packages.xml"
+let xmlFile = "packages.xml"
 let htmlFile = "public/index.html"
 
 proc writeMessageToUser(messageToUser: string) =

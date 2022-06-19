@@ -7,7 +7,7 @@ src_dir="$(dirname "$(readlink -f "${BASH_SOURCE[0]}")")"
 source "$src_dir/scripts/installnim.sh"
 
 #install_nim_check "1.6.6"
-curl https://nim-lang.org/choosenim/init.sh -sSf | sh
+curl https://nim-lang.org/choosenim/init.sh -y -sSf | sh
 nim -v
 choosenim --version
 nimble install xml -n

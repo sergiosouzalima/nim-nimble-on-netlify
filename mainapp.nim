@@ -30,7 +30,7 @@ proc downloadXmlFromNimbleDir(url, xmlFile: string) =
     defer: file.close()
     file.write(client.getContent(url))
   except IOError as err:
-    messageToUser = "downloadXmlFromNimbleDir ==> Failed to download XML: " & err.msg
+    messageToUser = "Failed to download XML: " & err.msg
   writeMessageToUser(messageToUser)
 
 func writeHTMLTableRow(seqXmlItems: seq[XmlNode] ): string =

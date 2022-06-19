@@ -77,13 +77,13 @@ func htmlPagePart3*: string =
   """
 
 proc htmlPagePart4*: string =
-  let strCurrentDate: string = now().format("ddd, d MMMM yyyy hh:mm tt")
+  let strCurrentDate: string = now().format("ddd, d MMMM yyyy, hh:mm tt")
   let strHtml = """
         </tbody>
       </table>
 
       <article>
-        This website date/time update: $# <br />
+        This website update: $# <br />
         Nim packages dataset available <a href="https://nimble.directory/packages.xml" target="_blank">here</a>.
       </article>
   </main>

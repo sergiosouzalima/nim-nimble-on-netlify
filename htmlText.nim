@@ -3,9 +3,9 @@
 ## Author..............: Sergio Lima
 ## Created at..........: Jun, 18 2022
 ## How to compile:
-##   nimbleDirectoryHtml$ nim c -d:ssl --verbosity:0 --hints:off -d:danger -d:lto --opt:speed src/nimbleDirectoryHtml.nim
+##   $ nim c -d:ssl --verbosity:0 --hints:off -d:danger -d:lto --opt:speed mainapp.nim
 ## How to run
-##   ./src/nimbleDirectoryHtml
+##   ./mainapp
 
 import strutils, std/[times]
 

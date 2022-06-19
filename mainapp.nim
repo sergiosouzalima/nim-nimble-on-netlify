@@ -11,7 +11,7 @@
 import httpClient, xml, xml/selector, strutils
 import htmlText
 
-let url = "nimble.directory/packages.xml"
+let url = "https://nimble.directory/packages.xml"
 let xmlFile = "assets/packages.xml"
 let htmlFile = "public/index.html"
 

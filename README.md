@@ -50,6 +50,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+## Compile locally
+
 <!-- About the project image -->
 <br />
 <div align="center">
@@ -57,6 +59,17 @@
     <img src="images/about_the_project_01.png" alt="About the project">
   </a>
 </div>
+
+## This web page on line
+
+<br />
+<div align="center">
+  <a href="https://github.com/sergiosouzalima/nim-nimble-on-netlify">
+    <img src="images/about_the_project_02.png" alt="About the project">
+  </a>
+</div>
+
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

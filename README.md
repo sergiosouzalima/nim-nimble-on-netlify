@@ -133,9 +133,9 @@ How this project can be used.
   - is the build command executed by Netlify.
   - when ``build.sh`` is executed, it calls ``mainapp``:
   - ``mainapp``:
-    - downloads an XML from <a href="https://nimble.directory/packages.xml">Nimble packages Directory</a>
-    - after that, ``mainapp`` creates a file named packages.xml
-    - finally, ``mainapp`` transforms packages.xml into index.html
+    - downloads an nimble packages from <a href="https://nimble.directory/packages.xml">Nimble packages Directory</a>
+    - with that data, ``mainapp`` creates a file named packages.xml under public folder
+    - finally, ``mainapp`` generates index.html from packages.xml
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

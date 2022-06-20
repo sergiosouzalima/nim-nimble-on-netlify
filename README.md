@@ -113,6 +113,48 @@ How this project can be used.
    ./exe/nimapp
    ```
 7. In your browser, load file public/index.html
+
+## Want to see this web page on line?
+
+## How to use
+* Fork or copy this repository.
+* Based on this repository, create and push your own repo to Github.
+* Login to Netlify.
+* Click "New site from Git" botton.
+* Select the repository you created.
+* Click "Deploy site".
+
+## How it works
+- Everytime you do ``git push`` to your Git repository, Netlify:
+  - clones your repo
+  - executes the build command
+  - makes files under public directory accessible from the internet.
+- ``build.sh``:
+  - is the build command executed by Netlify.
+  - When ``build.sh`` is executed, it calls ``mainapp`` that:
+    - downloads an XML from <a href="https://nimble.directory/packages.xml">Nimble packages Directory</a>
+    - basead on that data, creates a file named packages.xml
+    - Transform packages.xml into index.html
+
+1. Get Nim installed locally [<a href="#installation">See Installation section</a>]
+
+3. Clone the repo
+   ```sh
+   git clone https://github.com/sergiosouzalima/nim-nimble-on-netlify.git
+   ```
+4. Cd into nim-nimble-on-netlify folder
+   ```sh
+   cd nim-nimble-on-netlify
+   ```
+5. Compile source code
+   ```sh
+   nim c -d:ssl --verbosity:0 --hints:off -d:danger -d:lto --opt:speed --out:exe/mainapp src/mainapp.nim
+   ```
+6. Run nimapp. This command creates public/index.html
+   ```sh
+   ./exe/nimapp
+   ```
+7. In your browser, load file public/index.html
    ```sh
    index.html
    ```

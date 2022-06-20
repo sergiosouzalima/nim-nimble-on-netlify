@@ -81,7 +81,11 @@ Things you need to use and how to install them.
 1. Get and install Nim for Linux/MacOS:
 	* https://nim-lang.org/install_unix.html
 2. Get and install Nim for Windows:
-	*  https://nim-lang.org/install_windows.html
+	* https://nim-lang.org/install_windows.html
+3. A Netlify account
+	* https://www.netlify.com/
+4. A repository on Github
+	* https://www.github.com/
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

@@ -116,7 +116,7 @@ How this project can be used.
 
 ## Want to see this web page on line?
 
-## How to use
+### How to use
 * Fork or copy this repository.
 * Based on this repository, create and push your own repo to Github.
 * Login to Netlify.
@@ -124,7 +124,7 @@ How this project can be used.
 * Select the repository you created.
 * Click "Deploy site".
 
-## How it works
+### How it works
 - Everytime you do ``git push`` to your Git repository, Netlify:
   - clones your repo
   - executes the build command

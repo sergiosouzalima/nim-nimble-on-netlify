@@ -136,29 +136,6 @@ How this project can be used.
     - basead on that data, creates a file named packages.xml
   - mainapp transforms packages.xml into index.html
 
-1. Get Nim installed locally [<a href="#installation">See Installation section</a>]
-
-3. Clone the repo
-   ```sh
-   git clone https://github.com/sergiosouzalima/nim-nimble-on-netlify.git
-   ```
-4. Cd into nim-nimble-on-netlify folder
-   ```sh
-   cd nim-nimble-on-netlify
-   ```
-5. Compile source code
-   ```sh
-   nim c -d:ssl --verbosity:0 --hints:off -d:danger -d:lto --opt:speed --out:exe/mainapp src/mainapp.nim
-   ```
-6. Run nimapp. This command creates public/index.html
-   ```sh
-   ./exe/nimapp
-   ```
-7. In your browser, load file public/index.html
-   ```sh
-   index.html
-   ```
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->

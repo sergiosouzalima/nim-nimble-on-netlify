@@ -131,10 +131,11 @@ How this project can be used.
   - makes files under public directory accessible from the internet.
 - ``build.sh``:
   - is the build command executed by Netlify.
-  - When ``build.sh`` is executed, it calls ``mainapp`` that:
+  - when ``build.sh`` is executed, it calls ``mainapp``:
+  - ``mainapp``:
     - downloads an XML from <a href="https://nimble.directory/packages.xml">Nimble packages Directory</a>
-    - basead on that data, creates a file named packages.xml
-  - mainapp transforms packages.xml into index.html
+    - after that, ``mainapp`` creates a file named packages.xml
+    - finally, ``mainapp`` transforms packages.xml into index.html
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

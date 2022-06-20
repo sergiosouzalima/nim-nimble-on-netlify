@@ -4,12 +4,12 @@
 ## Author..............: Sergio Lima
 ## Created at..........: Jun, 18 2022
 ## How to compile:
-##   $ nim c -d:ssl --verbosity:0 --hints:off -d:danger -d:lto --opt:speed mainapp.nim
+##   $ nim c -d:ssl --verbosity:0 --hints:off -d:danger -d:lto --opt:speed --out:exe/mainapp src/mainapp.nim
 ## How to run
-##   ./mainapp
+##   $ ./exe/mainapp
 
 import httpClient, xml, xml/selector, strutils
-import htmlText
+import htmlSource
 
 let url = "https://nimble.directory/packages.xml"
 let xmlFile = "public/packages.xml"

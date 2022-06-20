@@ -12,7 +12,8 @@
   <p align="center">
     Web Page based on <a href="https://nimble.directory/packages.xml">Nimble packages Directory</a>. Hosted on <a href="https://www.netlify.com">Netlify</a>
     <br />
-    <a href="https://github.com/sergiosouzalima/nim-nimble-on-netlify"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/sergiosouzalima/nim-nimble-on-netlify">
+    <strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/sergiosouzalima/nim-nimble-on-netlify/issues">Report Bug</a>
@@ -52,7 +53,7 @@
 <!-- About the project image -->
 <br />
 <div align="center">
-  <a href="https://github.com/sergiosouzalima/nim-hellowebserver">
+  <a href="https://github.com/sergiosouzalima/nim-nimble-on-netlify">
     <img src="images/about_the_project_01.png" alt="About the project">
   </a>
 </div>
@@ -93,27 +94,23 @@ How this project can be used.
 
 3. Clone the repo
    ```sh
-   git clone https://github.com/sergiosouzalima/nim-hellowebserver.git
+   git clone https://github.com/sergiosouzalima/nim-nimble-on-netlify.git
    ```
-4. Cd into nim-hellowebserver folder
+4. Cd into nim-nimble-on-netlify folder
    ```sh
-   cd nim-hellowebserver
+   cd nim-nimble-on-netlify
    ```
 5. Compile source code
    ```sh
-   nimble compile src/hellowebserver
+   nim c -d:ssl --verbosity:0 --hints:off -d:danger -d:lto --opt:speed --out:exe/mainapp src/mainapp.nim
    ```
-6. Run web server
+6. Run nimapp. This command creates public/index.html
    ```sh
-   nimble run
+   ./exe/nimapp
    ```
-7. In your browser, visit
+7. In your browser, load file public/index.html
    ```sh
-   localhost:8080
-   ```
-8. If you want to run tests
-   ```sh
-   nimble test
+   index.html
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -146,7 +143,7 @@ Distributed under the MIT License.
 
 Sergio Lima - [@sergiosouzalima](https://twitter.com/sergiosouzalima) - sergiosouzalima@gmail.com
 
-Project Link: [https://github.com/sergiosouzalima/nim-hellowebserver](https://github.com/sergiosouzalima/nim-hellowebserver)
+Project Link: [https://github.com/sergiosouzalima/nim-nimble-on-netlify](https://github.com/sergiosouzalima/nim-nimble-on-netlify)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

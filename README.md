@@ -10,7 +10,7 @@
 <div align="center">
 <h3 align="center">Nimble Packages Directory Project</h3>
   <p align="center">
-    Web Page based on <a href="https://nimble.directory/packages.xml">Nimble packages Directory</a>. Hosted on <a href="https://www.netlify.com">Netlify</a>
+    <a href="https://gilded-choux-faca73.netlify.app">Web Page</a> based on <a href="https://nimble.directory/packages.xml">Nimble packages Directory</a>. Hosted on <a href="https://www.netlify.com">Netlify</a>
     <br />
     <a href="https://github.com/sergiosouzalima/nim-nimble-on-netlify">
     <strong>Explore the docs »</strong></a>

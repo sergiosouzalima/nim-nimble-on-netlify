@@ -69,7 +69,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-See below instructions on setting up your project locally.
+See below instructions on setting up your project locally.<br />
 To get a local copy up and running follow these simple steps.
 
 ### Prerequisites

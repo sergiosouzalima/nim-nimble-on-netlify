@@ -53,7 +53,7 @@
 This is a super simple <a href="https://www.nim-lang.com">Nim</a> program that downloads a file called packages.xml
 from <a href="https://nimble.directory/packages.xml">Nimble packages Directory</a>.<br />
 After that, this program reads the packages.xml file and creates a file called index.html
-with the same content, but in an HTML format.<br />
+with the same content, but in a web page format.<br />
 Visit the index.html <a href="https://gilded-choux-faca73.netlify.app">here</a>,
 if you want to see the web page on line.
 

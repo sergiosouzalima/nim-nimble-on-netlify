@@ -114,7 +114,7 @@ How this project can be used.
    ```
 7. In your browser, load file public/index.html
 
-## Want to see this web page on line?
+## Do you want to see this web page on line?
 
 ### How to use
 * Fork or copy this repository.
@@ -134,7 +134,7 @@ How this project can be used.
   - When ``build.sh`` is executed, it calls ``mainapp`` that:
     - downloads an XML from <a href="https://nimble.directory/packages.xml">Nimble packages Directory</a>
     - basead on that data, creates a file named packages.xml
-    - Transform packages.xml into index.html
+  - mainapp transforms packages.xml into index.html
 
 1. Get Nim installed locally [<a href="#installation">See Installation section</a>]
 

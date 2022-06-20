@@ -114,7 +114,7 @@ How this project can be used.
    ```
 7. In your browser, load file public/index.html
 
-## Do you want to see this web page on line?
+## Do you want this web page on line?
 
 ### Basic steps
 * Fork or copy this repository.

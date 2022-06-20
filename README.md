@@ -50,6 +50,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+This is a super simple <a href="https://www.nim-lang.com">Nim</a> program that downloads a file called packages.xml
+from <a href="https://nimble.directory/packages.xml">Nimble packages Directory</a>.
+After that, this program reads the packages.xml file and creates a file called index.html
+with the same content, but in an HTML format.
+Visit the index.html <a href="https://gilded-choux-faca73.netlify.app">here</a>,
+if you want to see the web page on line.
 ## Compile locally
 
 <!-- About the project image -->
@@ -123,7 +129,7 @@ How this project can be used.
    ```sh
    ./exe/nimapp
    ```
-7. In your browser, load file public/index.html
+7. In your browser, load the file public/index.html
 
 ## Do you want this web page on line?
 

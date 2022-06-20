@@ -64,12 +64,10 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/sergiosouzalima/nim-nimble-on-netlify">
+  <a href="https://gilded-choux-faca73.netlify.app">
     <img src="images/about_the_project_02.png" alt="About the project">
   </a>
 </div>
-
-
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

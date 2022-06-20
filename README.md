@@ -193,7 +193,6 @@ Project Link: [https://github.com/sergiosouzalima/nim-nimble-on-netlify](https:/
 
 * [https://forum.nim-lang.org](https://forum.nim-lang.org)
 * [Nim Lang Brazil on Telegram](https://t.me/nimbrasil)
-* [nim-tutorials](https://github.com/JonathanTurnock/nim-tutorials)
 * [This README template by Othneil Drew](https://github.com/othneildrew/Best-README-Template)
 
 <p align="right">(<a href="#top">back to top</a>)</p>

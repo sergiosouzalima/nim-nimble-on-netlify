@@ -116,7 +116,7 @@ How this project can be used.
 
 ## Do you want to see this web page on line?
 
-### How to use
+### Basic steps
 * Fork or copy this repository.
 * Based on this repository, create and push your own repo to Github.
 * Login to Netlify.

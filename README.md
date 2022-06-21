@@ -67,7 +67,7 @@ if you want to see the web page on line.
   </a>
 </div>
 
-## This web page on line on Netliflix
+## This web page on line on Netlifly
 
 <br />
 

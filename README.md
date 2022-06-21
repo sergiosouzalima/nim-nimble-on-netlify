@@ -50,11 +50,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-* This is a super simple <a href="https://www.nim-lang.org">Nim</a> program that downloads a file called packages.xml
-from <a href="https://nimble.directory/packages.xml">Nimble packages Directory</a>.<br />
+* This is a super simple <a href="https://www.nim-lang.org" target="_blank">Nim</a> program that downloads a file called packages.xml
+from <a href="https://nimble.directory/packages.xml" target="_blank">Nimble packages Directory</a>.<br />
 * After that, this program reads the packages.xml file and creates a file called index.html
 with the same content, but in a web page format.<br />
-* Visit the index.html <a href="https://gilded-choux-faca73.netlify.app">here</a>,
+* Visit the index.html <a href="https://gilded-choux-faca73.netlify.app" target="_blank">here</a>,
 if you want to see the web page on line.
 
 ## Compile locally

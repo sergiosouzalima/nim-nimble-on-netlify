@@ -58,6 +58,8 @@ func htmlPagePart3*: string =
         <a href="https://nimble.directory/" target="_blank">Nimble Directory</a>
 
         <a href="https://www.nim-lang.org/" target="_blank">👑 Nim Language</a>
+
+        <a href="https://github.com/sergiosouzalima/nim-nimble-on-netlify/" target="_blank">Github</a>
       </nav>
 
       <h1>Nim Package Directory</h1>

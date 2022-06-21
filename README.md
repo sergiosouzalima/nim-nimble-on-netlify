@@ -67,9 +67,12 @@ if you want to see the web page on line.
   </a>
 </div>
 
-## This web page on line
+## This web page on line on Netliflix
 
 <br />
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cb02f095-1da6-4783-8b07-06423614c6a3/deploy-status)](https://app.netlify.com/sites/gilded-choux-faca73/deploys)
+
 <div align="center">
   <a href="https://gilded-choux-faca73.netlify.app">
     <img src="images/about_the_project_02.png" alt="About the project">

@@ -55,7 +55,7 @@ from <a href="https://nimble.directory/packages.xml" target="_blank">Nimble pack
 * After that, this program reads the packages.xml file and creates a file called index.html
 with the same content, but in a web page format.<br />
 * Visit the index.html <a href="https://gilded-choux-faca73.netlify.app" target="_blank">here</a>,
-if you want to see the web page on line.
+if you want to see the web page online.
 
 ## Compile locally
 
@@ -67,7 +67,7 @@ if you want to see the web page on line.
   </a>
 </div>
 
-## This web page on line on Netlifly
+## This web page online on Netlifly
 
 <br />
 

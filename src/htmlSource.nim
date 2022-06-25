@@ -9,14 +9,14 @@
 
 import strutils, std/[times]
 
-func htmlPagePart1*: string =
-  return """
+const htmlPagePart1*: string =
+  """
 <!DOCTYPE html>
 <html lang="en-GB">
-"""
+  """
 
-func htmlPagePart2*: string =
-  return """
+const htmlPagePart2*: string =
+  """
 <head>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -46,26 +46,21 @@ func htmlPagePart2*: string =
     }
   </style>
 </head>
-"""
+  """
 
-func htmlPagePart3*: string =
-  return """
+const htmlPagePart3*: string =
+  """
   <body>
     <header>
       <nav>
         <a href="index.html">Home</a>
-
         <a href="https://nimble.directory/" target="_blank">Nimble Directory</a>
-
         <a href="https://www.nim-lang.org/" target="_blank">👑 Nim Language</a>
-
         <a href="https://github.com/sergiosouzalima/nim-nimble-on-netlify/" target="_blank">Github</a>
       </nav>
-
       <h1>Nim Package Directory</h1>
       <p>Are you a 👑 Nim developer? Search for packages or jump to a package page.</p>
     </header>
-
     <main>
       <div class="blog-item">
         <table>

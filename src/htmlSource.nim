@@ -1,7 +1,7 @@
 ## Program name........: htmlSource.nim
 ## Program description.: Provides index.html.
 ## Author..............: Sergio Lima
-## Created at..........: Jun, 18 2022
+## Created on..........: Jun, 18 2022
 ## How to compile:
 ##   $ nim c -d:ssl --verbosity:0 --hints:off -d:danger -d:lto --opt:speed --out:exe/mainapp src/mainapp.nim
 ## How to run

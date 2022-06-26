@@ -14,4 +14,6 @@ const htmlPagePart01*: string = readFile("src/html_page_part1.html")
 
 let currentTimeStamp: string = now().format("ddd, d MMMM yyyy, hh:mm tt")
 
-let htmlPagePart02*: string = readFile("src/html_page_part2.html").replace("{currentTimeStamp}", currentTimeStamp)
+let htmlPagePart02*: string =
+  readFile("src/html_page_part2.html").
+  replace("{currentTimeStamp}", currentTimeStamp)

@@ -19,7 +19,7 @@ const htmlFile = "public/index.html"
 proc writeMessageToUser(message: string) =
   echo message
 
-func updatedAtFormat(updatedAt: string):string =
+func updatedAtFormat*(updatedAt: string):string =
   var updatedSplit = updatedAt.split
   return fmt"""{updatedSplit[1]}/{updatedSplit[2]}/{updatedSplit[3]} {updatedSplit[4]}"""
 

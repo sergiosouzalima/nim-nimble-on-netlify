@@ -35,13 +35,13 @@ proc downloadXmlFromNimbleDir(url, xmlFile: string) =
   writeMessageToUser(xmlDownload)
 
 func writeHTMLTableRow(seqXmlItems: seq[XmlNode] ): string =
-    let spaces = "            "
+    let spaces = repeat(" ",12)
     var pkgDescription = seqXmlItems[1].text
     var pkgLink = seqXmlItems[2].text
     var pkgShowLink = pkgLink.split("/")[4]
     var pkgUpdatedAt = seqXmlItems[4].text.updatedAtFormat
     result &= fmt"""{spaces}<tr>{'\n'}"""
-    result &= fmt"""{spaces}  <td><link><a href="{pkgLink}" target=_blank\>{pkgShowLink}</a></link></td>{'\n'}"""
+    result &= fmt"""{spaces}  <td><link><a href="{pkgLink}" target=_blank>{pkgShowLink}</a></link></td>{'\n'}"""
     result &= fmt"""{spaces}  <td class=cell-breakWord>{pkgDescription}</td>{'\n'}"""
     result &= fmt"""{spaces}  <td>{pkgUpdatedAt}</td>{'\n'}"""
     result &= fmt"""{spaces}</tr>{'\n'}"""

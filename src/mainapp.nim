@@ -36,12 +36,10 @@ proc writeHtml(htmlFile: string, htmlPage: string, beforeOrAfterItems: string, f
   writeMessageToUser(htmlCreationMessage)
 
 proc writeHtmlBeforeItems(htmlFile: string) =
-  writeHtml(htmlFile, htmlPagePart1, "before", fmWrite)
-  writeHtml(htmlFile, htmlPagePart2, "before", fmAppend)
-  writeHtml(htmlFile, htmlPagePart3, "before", fmAppend)
+  writeHtml(htmlFile, htmlPagePart01, "before", fmWrite)
 
 proc writeHtmlAfterItems(htmlFile: string) =
-  writeHtml(htmlFile, htmlPagePart4, "after", fmAppend)
+  writeHtml(htmlFile, htmlPagePart02, "after", fmAppend)
 
 proc downloadXmlFromNimbleDir(url, xmlFile: string) =
   var client = newHttpClient()

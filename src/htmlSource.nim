@@ -7,7 +7,8 @@
 ## How to run
 ##   $ ./exe/mainapp
 
-import strutils, std/[times]
+import std/[times]
+import std/strformat
 
 const htmlPagePart1*: string =
   """
@@ -74,14 +75,15 @@ const htmlPagePart3*: string =
           <tbody>
   """
 
-proc htmlPagePart4*: string =
-  let strCurrentDate: string = now().format("ddd, d MMMM yyyy, hh:mm tt")
-  let strHtml = """
+let currentTimeStamp: string = now().format("ddd, d MMMM yyyy, hh:mm tt")
+
+let htmlPagePart4*: string =
+  fmt"""
         </tbody>
       </table>
 
       <article>
-        Published: $# <br />
+        Published: {currentTimeStamp} <br />
         Nim packages dataset available <a href="https://nimble.directory/packages.xml" target="_blank">here</a>.
       </article>
   </main>
@@ -95,5 +97,4 @@ proc htmlPagePart4*: string =
 </body>
 
 </html>
-"""
-  return strHtml.format(strCurrentDate)
+  """

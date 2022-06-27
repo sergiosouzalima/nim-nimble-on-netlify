@@ -20,8 +20,7 @@ proc writeMessageToUser(message: string) =
   echo message
 
 func updatedAtFormat*(updatedAt: string):string =
-  var updatedSplit = updatedAt.split
-  return fmt"""{updatedSplit[1]}/{updatedSplit[2]}/{updatedSplit[3]} {updatedSplit[4]}"""
+  return fmt"""{updatedAt[5 .. 6]}/{updatedAt[8 .. 10]}/{updatedAt[12 .. 15]}{updatedAt[16 .. 24]}"""
 
 proc writeHtml(htmlFile: string, htmlPage: string, beforeOrAfterItems: string, fileMode: FileMode) =
   let successHtmlCreation = fmt"""HTML file created ({beforeOrAfterItems} items)."""

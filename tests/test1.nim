@@ -11,7 +11,7 @@ import unittest
 
 import ../src/mainapp
 
-suite "Main App":
+suite "mainapp":
   setup:
     let currentTimeStamp: string = "Sun, 26 Jun 2022 10:54:12 Z"
 

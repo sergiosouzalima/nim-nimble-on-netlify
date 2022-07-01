@@ -70,7 +70,7 @@ proc writeHtmlItemsFromXML(xmlFile: string) =
   try:
     let itemsFile = open(htmlFile, fmAppend)
     defer: itemsFile.close()
-    for item in 0..arrayXmlItemFields.len-1:
+    for item in countdown(arrayXmlItemFields.len-1, 0):
       let seqXmlItems = arrayXmlItemFields[item].select("^channel^item")
       let strHtmlLine = writeHTMLTableRow(seqXmlItems)
       itemsFile.write(strHtmlLine)

@@ -5,8 +5,8 @@
     <description>New and updated Nim packages</description>
     <link>https://nimble.directory/packages.xml</link>
     <atom:link href="https://nimble.directory/packages.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 27 Jun 2022 04:38:11 Z</lastBuildDate>
-    <pubDate>Mon, 27 Jun 2022 04:38:11 Z</pubDate>
+    <lastBuildDate>Fri, 01 Jul 2022 08:05:07 Z</lastBuildDate>
+    <pubDate>Fri, 01 Jul 2022 08:05:07 Z</pubDate>
     <ttl>3600</ttl>
 
     <item>
@@ -1338,6 +1338,34 @@
      <link>https://nimble.directory/pkg/openurl</link>
      <guid isPermaLink="true">https://nimble.directory/pkg/openurl</guid>
      <pubDate>Sat, 25 Jun 2022 02:17:44 Z</pubDate>
+    </item>
+    <item>
+     <title>pwnedpass</title>
+     <description>Check if a passphrase has been pwned using the Pwned Passwords v3 API</description>
+     <link>https://nimble.directory/pkg/pwnedpass</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/pwnedpass</guid>
+     <pubDate>Tue, 28 Jun 2022 11:35:10 Z</pubDate>
+    </item>
+    <item>
+     <title>libp2pdht</title>
+     <description>DHT based on the libp2p Kademlia spec</description>
+     <link>https://nimble.directory/pkg/libp2pdht</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/libp2pdht</guid>
+     <pubDate>Tue, 28 Jun 2022 04:35:36 Z</pubDate>
+    </item>
+    <item>
+     <title>seq2d</title>
+     <description>A 2D Sequence Implementation</description>
+     <link>https://nimble.directory/pkg/seq2d</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/seq2d</guid>
+     <pubDate>Wed, 29 Jun 2022 04:36:45 Z</pubDate>
+    </item>
+    <item>
+     <title>arbitrary</title>
+     <description>Generating structured data from arbitrary, unstructured input.</description>
+     <link>https://nimble.directory/pkg/arbitrary</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/arbitrary</guid>
+     <pubDate>Fri, 01 Jul 2022 09:57:59 Z</pubDate>
     </item>
   </channel>
 </rss>

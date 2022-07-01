@@ -75,7 +75,7 @@ proc writeHtmlItemsFromXML(xmlFile: string) =
       let strHtmlLine = writeHTMLTableRow(seqXmlItems)
       itemsFile.write(strHtmlLine)
   except IOError as err:
-    htmlCreation = "Failed to create HTML (items):: " & err.msg
+    htmlCreation = "Failed to create HTML (items): " & err.msg
   writeMessageToUser(htmlCreation)
 
 when isMainModule:

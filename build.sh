@@ -1,2 +1,2 @@
 #!/bin/bash
-./exe/mainapp
+./exe/scheduledJob

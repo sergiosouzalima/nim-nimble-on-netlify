@@ -10,7 +10,7 @@
 <div align="center">
 <h3 align="center">Nimble Packages Directory Project</h3>
   <p align="center">
-    <a href="https://gilded-choux-faca73.netlify.app">Web Page</a>, hosted on <a href="https://www.netlify.com">Netlify</a>. Based on <a href="https://nimble.directory/packages.xml">Nimble packages Directory</a>.
+    <a href="https://nimble-packages.netlify.app">Web Page</a>, hosted on <a href="https://www.netlify.com">Netlify</a>. Based on <a href="https://nimble.directory/packages.xml">Nimble packages Directory</a>.
     <br />
     <a href="https://github.com/sergiosouzalima/nim-nimble-on-netlify">
     <strong>Explore the docs »</strong></a>
@@ -54,7 +54,7 @@
 from <a href="https://nimble.directory/packages.xml" target="_blank">Nimble packages Directory</a>.<br />
 * After that, this program reads the packages.xml file and creates a file called index.html
 with the same content, but in a web page format.<br />
-* Visit the index.html <a href="https://gilded-choux-faca73.netlify.app" target="_blank">here</a>,
+* Visit the index.html <a href="https://nimble-packages.netlify.app" target="_blank">here</a>,
 if you want to see the web page online.
 
 ## Compile locally
@@ -71,10 +71,10 @@ if you want to see the web page online.
 
 <br />
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/cb02f095-1da6-4783-8b07-06423614c6a3/deploy-status)](https://app.netlify.com/sites/gilded-choux-faca73/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cb02f095-1da6-4783-8b07-06423614c6a3/deploy-status)](https://app.netlify.com/sites/nimble-packages/deploys)
 
 <div align="center">
-  <a href="https://gilded-choux-faca73.netlify.app">
+  <a href="https://nimble-packages.netlify.app">
     <img src="images/about_the_project_02.png" alt="About the project">
   </a>
 </div>

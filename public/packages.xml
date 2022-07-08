@@ -5,8 +5,8 @@
     <description>New and updated Nim packages</description>
     <link>https://nimble.directory/packages.xml</link>
     <atom:link href="https://nimble.directory/packages.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 06 Jul 2022 04:29:35 Z</lastBuildDate>
-    <pubDate>Wed, 06 Jul 2022 04:29:35 Z</pubDate>
+    <lastBuildDate>Fri, 08 Jul 2022 11:21:27 Z</lastBuildDate>
+    <pubDate>Fri, 08 Jul 2022 11:21:27 Z</pubDate>
     <ttl>3600</ttl>
 
     <item>
@@ -1373,6 +1373,34 @@
      <link>https://nimble.directory/pkg/fushin</link>
      <guid isPermaLink="true">https://nimble.directory/pkg/fushin</guid>
      <pubDate>Tue, 05 Jul 2022 01:16:14 Z</pubDate>
+    </item>
+    <item>
+     <title>urlon</title>
+     <description>URL Object Notation implemented in Nim</description>
+     <link>https://nimble.directory/pkg/urlon</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/urlon</guid>
+     <pubDate>Wed, 06 Jul 2022 11:05:34 Z</pubDate>
+    </item>
+    <item>
+     <title>hangover</title>
+     <description>A game engine in Nim with an opengl backend</description>
+     <link>https://nimble.directory/pkg/hangover</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/hangover</guid>
+     <pubDate>Thu, 07 Jul 2022 02:46:57 Z</pubDate>
+    </item>
+    <item>
+     <title>wttrin</title>
+     <description>A library with functions to fetch weather data from wttr.in</description>
+     <link>https://nimble.directory/pkg/wttrin</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/wttrin</guid>
+     <pubDate>Fri, 08 Jul 2022 03:08:00 Z</pubDate>
+    </item>
+    <item>
+     <title>nexus</title>
+     <description>Nexus provides a high-level web framework for Nim, with batteries included.</description>
+     <link>https://nimble.directory/pkg/nexus</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/nexus</guid>
+     <pubDate>Fri, 08 Jul 2022 07:08:24 Z</pubDate>
     </item>
   </channel>
 </rss>

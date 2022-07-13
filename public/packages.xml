@@ -5,8 +5,8 @@
     <description>New and updated Nim packages</description>
     <link>https://nimble.directory/packages.xml</link>
     <atom:link href="https://nimble.directory/packages.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 12 Jul 2022 08:31:16 Z</lastBuildDate>
-    <pubDate>Tue, 12 Jul 2022 08:31:16 Z</pubDate>
+    <lastBuildDate>Wed, 13 Jul 2022 11:25:57 Z</lastBuildDate>
+    <pubDate>Wed, 13 Jul 2022 11:25:57 Z</pubDate>
     <ttl>3600</ttl>
 
     <item>
@@ -1401,6 +1401,13 @@
      <link>https://nimble.directory/pkg/nexus</link>
      <guid isPermaLink="true">https://nimble.directory/pkg/nexus</guid>
      <pubDate>Fri, 08 Jul 2022 07:08:24 Z</pubDate>
+    </item>
+    <item>
+     <title>nimislides</title>
+     <description>Create Reveal.js slideshows in Nim</description>
+     <link>https://nimble.directory/pkg/nimislides</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/nimislides</guid>
+     <pubDate>Wed, 13 Jul 2022 01:38:27 Z</pubDate>
     </item>
   </channel>
 </rss>

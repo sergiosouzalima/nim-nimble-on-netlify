@@ -5,8 +5,8 @@
     <description>New and updated Nim packages</description>
     <link>https://nimble.directory/packages.xml</link>
     <atom:link href="https://nimble.directory/packages.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 13 Jul 2022 11:25:57 Z</lastBuildDate>
-    <pubDate>Wed, 13 Jul 2022 11:25:57 Z</pubDate>
+    <lastBuildDate>Fri, 15 Jul 2022 12:23:53 Z</lastBuildDate>
+    <pubDate>Fri, 15 Jul 2022 12:23:53 Z</pubDate>
     <ttl>3600</ttl>
 
     <item>
@@ -1408,6 +1408,20 @@
      <link>https://nimble.directory/pkg/nimislides</link>
      <guid isPermaLink="true">https://nimble.directory/pkg/nimislides</guid>
      <pubDate>Wed, 13 Jul 2022 01:38:27 Z</pubDate>
+    </item>
+    <item>
+     <title>nimwin</title>
+     <description>Platform Agnostic Windowing Library for Nim</description>
+     <link>https://nimble.directory/pkg/nimwin</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/nimwin</guid>
+     <pubDate>Wed, 13 Jul 2022 09:14:00 Z</pubDate>
+    </item>
+    <item>
+     <title>raytracingalgorithm</title>
+     <description>RayTracing Algorith in Nim</description>
+     <link>https://nimble.directory/pkg/raytracingalgorithm</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/raytracingalgorithm</guid>
+     <pubDate>Thu, 14 Jul 2022 11:26:12 Z</pubDate>
     </item>
   </channel>
 </rss>

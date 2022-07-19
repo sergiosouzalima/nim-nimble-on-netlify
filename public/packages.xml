@@ -5,8 +5,8 @@
     <description>New and updated Nim packages</description>
     <link>https://nimble.directory/packages.xml</link>
     <atom:link href="https://nimble.directory/packages.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 18 Jul 2022 12:53:24 Z</lastBuildDate>
-    <pubDate>Mon, 18 Jul 2022 12:53:24 Z</pubDate>
+    <lastBuildDate>Tue, 19 Jul 2022 09:43:30 Z</lastBuildDate>
+    <pubDate>Tue, 19 Jul 2022 09:43:30 Z</pubDate>
     <ttl>3600</ttl>
 
     <item>
@@ -1450,6 +1450,20 @@
      <link>https://nimble.directory/pkg/entgrep</link>
      <guid isPermaLink="true">https://nimble.directory/pkg/entgrep</guid>
      <pubDate>Mon, 18 Jul 2022 09:55:06 Z</pubDate>
+    </item>
+    <item>
+     <title>etf</title>
+     <description>ETF (Erlang Term Format) library for nim</description>
+     <link>https://nimble.directory/pkg/etf</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/etf</guid>
+     <pubDate>Mon, 18 Jul 2022 01:05:23 Z</pubDate>
+    </item>
+    <item>
+     <title>tagger</title>
+     <description>A library to generate xml and html tags</description>
+     <link>https://nimble.directory/pkg/tagger</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/tagger</guid>
+     <pubDate>Mon, 18 Jul 2022 07:25:57 Z</pubDate>
     </item>
   </channel>
 </rss>

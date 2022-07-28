@@ -5,8 +5,8 @@
     <description>New and updated Nim packages</description>
     <link>https://nimble.directory/packages.xml</link>
     <atom:link href="https://nimble.directory/packages.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 26 Jul 2022 10:41:19 Z</lastBuildDate>
-    <pubDate>Tue, 26 Jul 2022 10:41:19 Z</pubDate>
+    <lastBuildDate>Thu, 28 Jul 2022 02:23:59 Z</lastBuildDate>
+    <pubDate>Thu, 28 Jul 2022 02:23:59 Z</pubDate>
     <ttl>3600</ttl>
 
     <item>
@@ -1485,6 +1485,34 @@
      <link>https://nimble.directory/pkg/dye</link>
      <guid isPermaLink="true">https://nimble.directory/pkg/dye</guid>
      <pubDate>Mon, 25 Jul 2022 11:59:36 Z</pubDate>
+    </item>
+    <item>
+     <title>shellopt</title>
+     <description>Command line argument parser in the form commonly used in ordinary shell.</description>
+     <link>https://nimble.directory/pkg/shellopt</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/shellopt</guid>
+     <pubDate>Wed, 27 Jul 2022 09:12:40 Z</pubDate>
+    </item>
+    <item>
+     <title>nimtest</title>
+     <description>Simple testing framework for Nim</description>
+     <link>https://nimble.directory/pkg/nimtest</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/nimtest</guid>
+     <pubDate>Thu, 28 Jul 2022 02:24:18 Z</pubDate>
+    </item>
+    <item>
+     <title>jitter</title>
+     <description>A git-based binary manager for linux.</description>
+     <link>https://nimble.directory/pkg/jitter</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/jitter</guid>
+     <pubDate>Thu, 28 Jul 2022 06:24:41 Z</pubDate>
+    </item>
+    <item>
+     <title>trayx</title>
+     <description>Ray tracing</description>
+     <link>https://nimble.directory/pkg/trayx</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/trayx</guid>
+     <pubDate>Thu, 28 Jul 2022 11:55:10 Z</pubDate>
     </item>
   </channel>
 </rss>

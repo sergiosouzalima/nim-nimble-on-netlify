@@ -5,8 +5,8 @@
     <description>New and updated Nim packages</description>
     <link>https://nimble.directory/packages.xml</link>
     <atom:link href="https://nimble.directory/packages.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 28 Jul 2022 02:23:59 Z</lastBuildDate>
-    <pubDate>Thu, 28 Jul 2022 02:23:59 Z</pubDate>
+    <lastBuildDate>Fri, 29 Jul 2022 05:38:16 Z</lastBuildDate>
+    <pubDate>Fri, 29 Jul 2022 05:38:16 Z</pubDate>
     <ttl>3600</ttl>
 
     <item>
@@ -1513,6 +1513,13 @@
      <link>https://nimble.directory/pkg/trayx</link>
      <guid isPermaLink="true">https://nimble.directory/pkg/trayx</guid>
      <pubDate>Thu, 28 Jul 2022 11:55:10 Z</pubDate>
+    </item>
+    <item>
+     <title>util</title>
+     <description>Small utilities that isn&apos;t large enough to have a individual modules</description>
+     <link>https://nimble.directory/pkg/util</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/util</guid>
+     <pubDate>Fri, 29 Jul 2022 10:41:56 Z</pubDate>
     </item>
   </channel>
 </rss>

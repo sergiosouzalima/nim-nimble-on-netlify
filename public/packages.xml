@@ -5,8 +5,8 @@
     <description>New and updated Nim packages</description>
     <link>https://nimble.directory/packages.xml</link>
     <atom:link href="https://nimble.directory/packages.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 31 Jul 2022 06:43:58 Z</lastBuildDate>
-    <pubDate>Sun, 31 Jul 2022 06:43:58 Z</pubDate>
+    <lastBuildDate>Wed, 03 Aug 2022 12:39:05 Z</lastBuildDate>
+    <pubDate>Wed, 03 Aug 2022 12:39:05 Z</pubDate>
     <ttl>3600</ttl>
 
     <item>
@@ -1555,6 +1555,20 @@
      <link>https://nimble.directory/pkg/xkb</link>
      <guid isPermaLink="true">https://nimble.directory/pkg/xkb</guid>
      <pubDate>Sun, 31 Jul 2022 09:56:32 Z</pubDate>
+    </item>
+    <item>
+     <title>gralg</title>
+     <description>Classical Graph Algos in Nim</description>
+     <link>https://nimble.directory/pkg/gralg</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/gralg</guid>
+     <pubDate>Tue, 02 Aug 2022 06:00:52 Z</pubDate>
+    </item>
+    <item>
+     <title>thes</title>
+     <description>Thesaurus CLI/Library &amp; Analyzer in Nim</description>
+     <link>https://nimble.directory/pkg/thes</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/thes</guid>
+     <pubDate>Wed, 03 Aug 2022 05:21:51 Z</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,8 @@
     <description>New and updated Nim packages</description>
     <link>https://nimble.directory/packages.xml</link>
     <atom:link href="https://nimble.directory/packages.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 03 Aug 2022 12:39:05 Z</lastBuildDate>
-    <pubDate>Wed, 03 Aug 2022 12:39:05 Z</pubDate>
+    <lastBuildDate>Fri, 05 Aug 2022 11:35:15 Z</lastBuildDate>
+    <pubDate>Fri, 05 Aug 2022 11:35:15 Z</pubDate>
     <ttl>3600</ttl>
 
     <item>
@@ -1569,6 +1569,20 @@
      <link>https://nimble.directory/pkg/thes</link>
      <guid isPermaLink="true">https://nimble.directory/pkg/thes</guid>
      <pubDate>Wed, 03 Aug 2022 05:21:51 Z</pubDate>
+    </item>
+    <item>
+     <title>records</title>
+     <description>Operations on tuples as heterogeneous record types a la Relational Algebra</description>
+     <link>https://nimble.directory/pkg/records</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/records</guid>
+     <pubDate>Fri, 05 Aug 2022 02:02:57 Z</pubDate>
+    </item>
+    <item>
+     <title>geomancer</title>
+     <description>A library and program for getting geomancy charts and figures.</description>
+     <link>https://nimble.directory/pkg/geomancer</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/geomancer</guid>
+     <pubDate>Fri, 05 Aug 2022 04:13:16 Z</pubDate>
     </item>
   </channel>
 </rss>

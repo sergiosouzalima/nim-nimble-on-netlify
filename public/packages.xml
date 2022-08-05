@@ -5,8 +5,8 @@
     <description>New and updated Nim packages</description>
     <link>https://nimble.directory/packages.xml</link>
     <atom:link href="https://nimble.directory/packages.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 05 Aug 2022 11:35:15 Z</lastBuildDate>
-    <pubDate>Fri, 05 Aug 2022 11:35:15 Z</pubDate>
+    <lastBuildDate>Fri, 05 Aug 2022 05:25:48 Z</lastBuildDate>
+    <pubDate>Fri, 05 Aug 2022 05:25:48 Z</pubDate>
     <ttl>3600</ttl>
 
     <item>
@@ -1583,6 +1583,20 @@
      <link>https://nimble.directory/pkg/geomancer</link>
      <guid isPermaLink="true">https://nimble.directory/pkg/geomancer</guid>
      <pubDate>Fri, 05 Aug 2022 04:13:16 Z</pubDate>
+    </item>
+    <item>
+     <title>nbcnews</title>
+     <description>NBC News scraper</description>
+     <link>https://nimble.directory/pkg/nbcnews</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/nbcnews</guid>
+     <pubDate>Fri, 05 Aug 2022 01:14:07 Z</pubDate>
+    </item>
+    <item>
+     <title>editlyconf</title>
+     <description>Editly config generation tools and types</description>
+     <link>https://nimble.directory/pkg/editlyconf</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/editlyconf</guid>
+     <pubDate>Fri, 05 Aug 2022 02:49:33 Z</pubDate>
     </item>
   </channel>
 </rss>

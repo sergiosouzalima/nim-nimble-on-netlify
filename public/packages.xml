@@ -5,8 +5,8 @@
     <description>New and updated Nim packages</description>
     <link>https://nimble.directory/packages.xml</link>
     <atom:link href="https://nimble.directory/packages.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 05 Aug 2022 05:25:48 Z</lastBuildDate>
-    <pubDate>Fri, 05 Aug 2022 05:25:48 Z</pubDate>
+    <lastBuildDate>Wed, 10 Aug 2022 12:10:54 Z</lastBuildDate>
+    <pubDate>Wed, 10 Aug 2022 12:10:54 Z</pubDate>
     <ttl>3600</ttl>
 
     <item>
@@ -1597,6 +1597,13 @@
      <link>https://nimble.directory/pkg/editlyconf</link>
      <guid isPermaLink="true">https://nimble.directory/pkg/editlyconf</guid>
      <pubDate>Fri, 05 Aug 2022 02:49:33 Z</pubDate>
+    </item>
+    <item>
+     <title>simpleargs</title>
+     <description>Simple command line arguments parsing</description>
+     <link>https://nimble.directory/pkg/simpleargs</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/simpleargs</guid>
+     <pubDate>Wed, 10 Aug 2022 11:24:38 Z</pubDate>
     </item>
   </channel>
 </rss>

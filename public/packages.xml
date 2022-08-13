@@ -5,8 +5,8 @@
     <description>New and updated Nim packages</description>
     <link>https://nimble.directory/packages.xml</link>
     <atom:link href="https://nimble.directory/packages.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 11 Aug 2022 07:52:23 Z</lastBuildDate>
-    <pubDate>Thu, 11 Aug 2022 07:52:23 Z</pubDate>
+    <lastBuildDate>Sat, 13 Aug 2022 10:32:59 Z</lastBuildDate>
+    <pubDate>Sat, 13 Aug 2022 10:32:59 Z</pubDate>
     <ttl>3600</ttl>
 
     <item>
@@ -1611,6 +1611,20 @@
      <link>https://nimble.directory/pkg/qwatcher</link>
      <guid isPermaLink="true">https://nimble.directory/pkg/qwatcher</guid>
      <pubDate>Thu, 11 Aug 2022 07:47:34 Z</pubDate>
+    </item>
+    <item>
+     <title>libpe</title>
+     <description>Nim wrapper for libpe library</description>
+     <link>https://nimble.directory/pkg/libpe</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/libpe</guid>
+     <pubDate>Fri, 12 Aug 2022 10:58:57 Z</pubDate>
+    </item>
+    <item>
+     <title>mersal</title>
+     <description>Send SMS and Otp in nim, a wrapper for TextBelt&apos;s public API</description>
+     <link>https://nimble.directory/pkg/mersal</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/mersal</guid>
+     <pubDate>Sat, 13 Aug 2022 01:00:17 Z</pubDate>
     </item>
   </channel>
 </rss>

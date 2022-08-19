@@ -5,8 +5,8 @@
     <description>New and updated Nim packages</description>
     <link>https://nimble.directory/packages.xml</link>
     <atom:link href="https://nimble.directory/packages.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 16 Aug 2022 09:06:07 Z</lastBuildDate>
-    <pubDate>Tue, 16 Aug 2022 09:06:07 Z</pubDate>
+    <lastBuildDate>Fri, 19 Aug 2022 07:10:02 Z</lastBuildDate>
+    <pubDate>Fri, 19 Aug 2022 07:10:02 Z</pubDate>
     <ttl>3600</ttl>
 
     <item>
@@ -1632,6 +1632,20 @@
      <link>https://nimble.directory/pkg/imnotify</link>
      <guid isPermaLink="true">https://nimble.directory/pkg/imnotify</guid>
      <pubDate>Tue, 16 Aug 2022 04:41:44 Z</pubDate>
+    </item>
+    <item>
+     <title>bu</title>
+     <description>B)asic|But-For U)tility Code/Programs (Usually Nim &amp; With Unix/POSIX/Linux Context)</description>
+     <link>https://nimble.directory/pkg/bu</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/bu</guid>
+     <pubDate>Wed, 17 Aug 2022 10:55:18 Z</pubDate>
+    </item>
+    <item>
+     <title>clipper2</title>
+     <description>Bindings for Clipper2Lib: Polygon Clipping and Offsetting Library from Angus Johnson</description>
+     <link>https://nimble.directory/pkg/clipper2</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/clipper2</guid>
+     <pubDate>Fri, 19 Aug 2022 02:56:21 Z</pubDate>
     </item>
   </channel>
 </rss>

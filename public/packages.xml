@@ -5,8 +5,8 @@
     <description>New and updated Nim packages</description>
     <link>https://nimble.directory/packages.xml</link>
     <atom:link href="https://nimble.directory/packages.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 23 Aug 2022 05:10:03 Z</lastBuildDate>
-    <pubDate>Tue, 23 Aug 2022 05:10:03 Z</pubDate>
+    <lastBuildDate>Fri, 26 Aug 2022 05:11:32 Z</lastBuildDate>
+    <pubDate>Fri, 26 Aug 2022 05:11:32 Z</pubDate>
     <ttl>3600</ttl>
 
     <item>
@@ -1667,6 +1667,27 @@
      <link>https://nimble.directory/pkg/timsort2</link>
      <guid isPermaLink="true">https://nimble.directory/pkg/timsort2</guid>
      <pubDate>Tue, 23 Aug 2022 03:55:47 Z</pubDate>
+    </item>
+    <item>
+     <title>nim</title>
+     <description>Package providing the Nim compiler binaries plus all its source files that can be used as a library</description>
+     <link>https://nimble.directory/pkg/nim</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/nim</guid>
+     <pubDate>Wed, 24 Aug 2022 10:18:27 Z</pubDate>
+    </item>
+    <item>
+     <title>drchaos</title>
+     <description>A powerful and easy-to-use fuzzing framework in Nim for C/C++/Obj-C targets</description>
+     <link>https://nimble.directory/pkg/drchaos</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/drchaos</guid>
+     <pubDate>Fri, 26 Aug 2022 02:08:50 Z</pubDate>
+    </item>
+    <item>
+     <title>bitcoinlightning</title>
+     <description>Bitcoin Lightning client</description>
+     <link>https://nimble.directory/pkg/bitcoinlightning</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/bitcoinlightning</guid>
+     <pubDate>Fri, 26 Aug 2022 05:09:03 Z</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,8 @@
     <description>New and updated Nim packages</description>
     <link>https://nimble.directory/packages.xml</link>
     <atom:link href="https://nimble.directory/packages.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 26 Aug 2022 05:11:32 Z</lastBuildDate>
-    <pubDate>Fri, 26 Aug 2022 05:11:32 Z</pubDate>
+    <lastBuildDate>Mon, 29 Aug 2022 11:17:16 Z</lastBuildDate>
+    <pubDate>Mon, 29 Aug 2022 11:17:16 Z</pubDate>
     <ttl>3600</ttl>
 
     <item>
@@ -1688,6 +1688,27 @@
      <link>https://nimble.directory/pkg/bitcoinlightning</link>
      <guid isPermaLink="true">https://nimble.directory/pkg/bitcoinlightning</guid>
      <pubDate>Fri, 26 Aug 2022 05:09:03 Z</pubDate>
+    </item>
+    <item>
+     <title>brightcove</title>
+     <description>Brightcove player parser</description>
+     <link>https://nimble.directory/pkg/brightcove</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/brightcove</guid>
+     <pubDate>Mon, 29 Aug 2022 05:54:59 Z</pubDate>
+    </item>
+    <item>
+     <title>pricecsv</title>
+     <description>Easily calculate the total of all products in csv</description>
+     <link>https://nimble.directory/pkg/pricecsv</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/pricecsv</guid>
+     <pubDate>Mon, 29 Aug 2022 06:45:04 Z</pubDate>
+    </item>
+    <item>
+     <title>studiobacklottv</title>
+     <description>Studio Backlot TV video extractor</description>
+     <link>https://nimble.directory/pkg/studiobacklottv</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/studiobacklottv</guid>
+     <pubDate>Mon, 29 Aug 2022 06:45:04 Z</pubDate>
     </item>
   </channel>
 </rss>

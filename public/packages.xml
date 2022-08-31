@@ -5,8 +5,8 @@
     <description>New and updated Nim packages</description>
     <link>https://nimble.directory/packages.xml</link>
     <atom:link href="https://nimble.directory/packages.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 29 Aug 2022 11:17:16 Z</lastBuildDate>
-    <pubDate>Mon, 29 Aug 2022 11:17:16 Z</pubDate>
+    <lastBuildDate>Wed, 31 Aug 2022 11:33:18 Z</lastBuildDate>
+    <pubDate>Wed, 31 Aug 2022 11:33:18 Z</pubDate>
     <ttl>3600</ttl>
 
     <item>
@@ -1709,6 +1709,20 @@
      <link>https://nimble.directory/pkg/studiobacklottv</link>
      <guid isPermaLink="true">https://nimble.directory/pkg/studiobacklottv</guid>
      <pubDate>Mon, 29 Aug 2022 06:45:04 Z</pubDate>
+    </item>
+    <item>
+     <title>codegenlib</title>
+     <description>A simple code generation library for other programming languages!</description>
+     <link>https://nimble.directory/pkg/codegenlib</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/codegenlib</guid>
+     <pubDate>Tue, 30 Aug 2022 04:29:06 Z</pubDate>
+    </item>
+    <item>
+     <title>safeset</title>
+     <description>Set that can safely add and remove elements while iterating.</description>
+     <link>https://nimble.directory/pkg/safeset</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/safeset</guid>
+     <pubDate>Wed, 31 Aug 2022 04:40:11 Z</pubDate>
     </item>
   </channel>
 </rss>

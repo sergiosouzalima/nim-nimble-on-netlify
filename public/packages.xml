@@ -5,8 +5,8 @@
     <description>New and updated Nim packages</description>
     <link>https://nimble.directory/packages.xml</link>
     <atom:link href="https://nimble.directory/packages.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 31 Aug 2022 02:35:45 Z</lastBuildDate>
-    <pubDate>Wed, 31 Aug 2022 02:35:45 Z</pubDate>
+    <lastBuildDate>Sat, 03 Sep 2022 10:26:42 Z</lastBuildDate>
+    <pubDate>Sat, 03 Sep 2022 10:26:42 Z</pubDate>
     <ttl>3600</ttl>
 
     <item>
@@ -1730,6 +1730,34 @@
      <link>https://nimble.directory/pkg/tlv</link>
      <guid isPermaLink="true">https://nimble.directory/pkg/tlv</guid>
      <pubDate>Wed, 31 Aug 2022 02:21:07 Z</pubDate>
+    </item>
+    <item>
+     <title>ndup</title>
+     <description>Near-Duplicate File Detection</description>
+     <link>https://nimble.directory/pkg/ndup</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/ndup</guid>
+     <pubDate>Fri, 02 Sep 2022 02:14:15 Z</pubDate>
+    </item>
+    <item>
+     <title>autotemplate</title>
+     <description>Small library to automatically generate type-bound templates from files</description>
+     <link>https://nimble.directory/pkg/autotemplate</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/autotemplate</guid>
+     <pubDate>Fri, 02 Sep 2022 04:19:24 Z</pubDate>
+    </item>
+    <item>
+     <title>deriveables</title>
+     <description>Small library to generate procedures with a type derivation system</description>
+     <link>https://nimble.directory/pkg/deriveables</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/deriveables</guid>
+     <pubDate>Fri, 02 Sep 2022 04:19:24 Z</pubDate>
+    </item>
+    <item>
+     <title>libfuzzy</title>
+     <description>libfuzzy/ssdeep wrapper</description>
+     <link>https://nimble.directory/pkg/libfuzzy</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/libfuzzy</guid>
+     <pubDate>Fri, 02 Sep 2022 04:19:24 Z</pubDate>
     </item>
   </channel>
 </rss>

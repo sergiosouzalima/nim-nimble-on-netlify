@@ -5,8 +5,8 @@
     <description>New and updated Nim packages</description>
     <link>https://nimble.directory/packages.xml</link>
     <atom:link href="https://nimble.directory/packages.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 03 Sep 2022 10:26:42 Z</lastBuildDate>
-    <pubDate>Sat, 03 Sep 2022 10:26:42 Z</pubDate>
+    <lastBuildDate>Thu, 08 Sep 2022 04:13:40 Z</lastBuildDate>
+    <pubDate>Thu, 08 Sep 2022 04:13:40 Z</pubDate>
     <ttl>3600</ttl>
 
     <item>
@@ -1758,6 +1758,34 @@
      <link>https://nimble.directory/pkg/libfuzzy</link>
      <guid isPermaLink="true">https://nimble.directory/pkg/libfuzzy</guid>
      <pubDate>Fri, 02 Sep 2022 04:19:24 Z</pubDate>
+    </item>
+    <item>
+     <title>shiftfields</title>
+     <description>ShiftField type and sugar for c-style shift bitfields in nim.</description>
+     <link>https://nimble.directory/pkg/shiftfields</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/shiftfields</guid>
+     <pubDate>Mon, 05 Sep 2022 01:59:14 Z</pubDate>
+    </item>
+    <item>
+     <title>peni</title>
+     <description>PE tool based on libpe (with no S)</description>
+     <link>https://nimble.directory/pkg/peni</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/peni</guid>
+     <pubDate>Thu, 08 Sep 2022 01:05:39 Z</pubDate>
+    </item>
+    <item>
+     <title>qrgen</title>
+     <description>A QR code generation library.</description>
+     <link>https://nimble.directory/pkg/qrgen</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/qrgen</guid>
+     <pubDate>Thu, 08 Sep 2022 01:45:45 Z</pubDate>
+    </item>
+    <item>
+     <title>bitseqs</title>
+     <description>Utility for a bit manipulation</description>
+     <link>https://nimble.directory/pkg/bitseqs</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/bitseqs</guid>
+     <pubDate>Thu, 08 Sep 2022 01:45:45 Z</pubDate>
     </item>
   </channel>
 </rss>

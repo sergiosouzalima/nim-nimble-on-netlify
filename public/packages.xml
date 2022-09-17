@@ -5,8 +5,8 @@
     <description>New and updated Nim packages</description>
     <link>https://nimble.directory/packages.xml</link>
     <atom:link href="https://nimble.directory/packages.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 08 Sep 2022 04:13:40 Z</lastBuildDate>
-    <pubDate>Thu, 08 Sep 2022 04:13:40 Z</pubDate>
+    <lastBuildDate>Sat, 17 Sep 2022 06:09:25 Z</lastBuildDate>
+    <pubDate>Sat, 17 Sep 2022 06:09:25 Z</pubDate>
     <ttl>3600</ttl>
 
     <item>
@@ -1786,6 +1786,34 @@
      <link>https://nimble.directory/pkg/bitseqs</link>
      <guid isPermaLink="true">https://nimble.directory/pkg/bitseqs</guid>
      <pubDate>Thu, 08 Sep 2022 01:45:45 Z</pubDate>
+    </item>
+    <item>
+     <title>ezscr</title>
+     <description>Portable and easy Nimscript runner. Nim compiler not needed</description>
+     <link>https://nimble.directory/pkg/ezscr</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/ezscr</guid>
+     <pubDate>Wed, 14 Sep 2022 02:33:35 Z</pubDate>
+    </item>
+    <item>
+     <title>getdns</title>
+     <description>Wrapper over the getdns API</description>
+     <link>https://nimble.directory/pkg/getdns</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/getdns</guid>
+     <pubDate>Thu, 15 Sep 2022 06:29:01 Z</pubDate>
+    </item>
+    <item>
+     <title>clownlimiter</title>
+     <description>Jester rate limiter plugin</description>
+     <link>https://nimble.directory/pkg/clownlimiter</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/clownlimiter</guid>
+     <pubDate>Fri, 16 Sep 2022 08:30:24 Z</pubDate>
+    </item>
+    <item>
+     <title>zigcc</title>
+     <description>wraps `zig cc` to be able to be called by the nim compiler</description>
+     <link>https://nimble.directory/pkg/zigcc</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/zigcc</guid>
+     <pubDate>Sat, 17 Sep 2022 08:12:45 Z</pubDate>
     </item>
   </channel>
 </rss>

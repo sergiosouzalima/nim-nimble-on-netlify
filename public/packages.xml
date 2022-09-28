@@ -5,8 +5,8 @@
     <description>New and updated Nim packages</description>
     <link>https://nimble.directory/packages.xml</link>
     <atom:link href="https://nimble.directory/packages.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 17 Sep 2022 06:09:25 Z</lastBuildDate>
-    <pubDate>Sat, 17 Sep 2022 06:09:25 Z</pubDate>
+    <lastBuildDate>Wed, 28 Sep 2022 02:51:30 Z</lastBuildDate>
+    <pubDate>Wed, 28 Sep 2022 02:51:30 Z</pubDate>
     <ttl>3600</ttl>
 
     <item>
@@ -1814,6 +1814,55 @@
      <link>https://nimble.directory/pkg/zigcc</link>
      <guid isPermaLink="true">https://nimble.directory/pkg/zigcc</guid>
      <pubDate>Sat, 17 Sep 2022 08:12:45 Z</pubDate>
+    </item>
+    <item>
+     <title>mpv</title>
+     <description>Nim bindings for libmpv</description>
+     <link>https://nimble.directory/pkg/mpv</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/mpv</guid>
+     <pubDate>Mon, 19 Sep 2022 09:04:15 Z</pubDate>
+    </item>
+    <item>
+     <title>packy</title>
+     <description>Library to pack dependencies in the compiled binary. Supports .dll files</description>
+     <link>https://nimble.directory/pkg/packy</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/packy</guid>
+     <pubDate>Mon, 19 Sep 2022 11:44:30 Z</pubDate>
+    </item>
+    <item>
+     <title>dimage</title>
+     <description>Pure Nim, no external dependencies, image mime type and dimension reader for images</description>
+     <link>https://nimble.directory/pkg/dimage</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/dimage</guid>
+     <pubDate>Tue, 20 Sep 2022 08:36:20 Z</pubDate>
+    </item>
+    <item>
+     <title>kdl</title>
+     <description>KDL document language Nim implementation</description>
+     <link>https://nimble.directory/pkg/kdl</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/kdl</guid>
+     <pubDate>Sun, 25 Sep 2022 01:54:18 Z</pubDate>
+    </item>
+    <item>
+     <title>passy</title>
+     <description>A fast little password generator</description>
+     <link>https://nimble.directory/pkg/passy</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/passy</guid>
+     <pubDate>Mon, 26 Sep 2022 07:37:17 Z</pubDate>
+    </item>
+    <item>
+     <title>checkif</title>
+     <description>A CLI tool to check files (and registry in Windows)</description>
+     <link>https://nimble.directory/pkg/checkif</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/checkif</guid>
+     <pubDate>Mon, 26 Sep 2022 07:57:20 Z</pubDate>
+    </item>
+    <item>
+     <title>geometrymath</title>
+     <description>Linear algebra library for computer graphics applications</description>
+     <link>https://nimble.directory/pkg/geometrymath</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/geometrymath</guid>
+     <pubDate>Tue, 27 Sep 2022 04:20:21 Z</pubDate>
     </item>
   </channel>
 </rss>

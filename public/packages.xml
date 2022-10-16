@@ -5,8 +5,8 @@
     <description>New and updated Nim packages</description>
     <link>https://nimble.directory/packages.xml</link>
     <atom:link href="https://nimble.directory/packages.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 09 Oct 2022 01:01:07 Z</lastBuildDate>
-    <pubDate>Sun, 09 Oct 2022 01:01:07 Z</pubDate>
+    <lastBuildDate>Sun, 16 Oct 2022 02:33:34 Z</lastBuildDate>
+    <pubDate>Sun, 16 Oct 2022 02:33:34 Z</pubDate>
     <ttl>3600</ttl>
 
     <item>
@@ -1361,13 +1361,6 @@
      <pubDate>Wed, 29 Jun 2022 04:36:45 Z</pubDate>
     </item>
     <item>
-     <title>arbitrary</title>
-     <description>Generating structured data from arbitrary, unstructured input.</description>
-     <link>https://nimble.directory/pkg/arbitrary</link>
-     <guid isPermaLink="true">https://nimble.directory/pkg/arbitrary</guid>
-     <pubDate>Fri, 01 Jul 2022 09:57:59 Z</pubDate>
-    </item>
-    <item>
      <title>fushin</title>
      <description>Fetch fushinsha serif data and save as csv files</description>
      <link>https://nimble.directory/pkg/fushin</link>
@@ -1884,6 +1877,48 @@
      <link>https://nimble.directory/pkg/authenticode</link>
      <guid isPermaLink="true">https://nimble.directory/pkg/authenticode</guid>
      <pubDate>Wed, 05 Oct 2022 04:21:55 Z</pubDate>
+    </item>
+    <item>
+     <title>ytcc</title>
+     <description>CLI tool to get Youtube video captions (with chapters)</description>
+     <link>https://nimble.directory/pkg/ytcc</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/ytcc</guid>
+     <pubDate>Mon, 10 Oct 2022 11:22:38 Z</pubDate>
+    </item>
+    <item>
+     <title>aspartame</title>
+     <description>More syntactic sugar for Nim</description>
+     <link>https://nimble.directory/pkg/aspartame</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/aspartame</guid>
+     <pubDate>Mon, 10 Oct 2022 06:53:20 Z</pubDate>
+    </item>
+    <item>
+     <title>wcwidth</title>
+     <description>Implementation of wcwidth with Nim.</description>
+     <link>https://nimble.directory/pkg/wcwidth</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/wcwidth</guid>
+     <pubDate>Wed, 12 Oct 2022 12:17:04 Z</pubDate>
+    </item>
+    <item>
+     <title>lodns</title>
+     <description>Simple DNS server for local development.</description>
+     <link>https://nimble.directory/pkg/lodns</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/lodns</guid>
+     <pubDate>Thu, 13 Oct 2022 10:29:07 Z</pubDate>
+    </item>
+    <item>
+     <title>emath</title>
+     <description>math parser/evaluator library</description>
+     <link>https://nimble.directory/pkg/emath</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/emath</guid>
+     <pubDate>Thu, 13 Oct 2022 02:49:33 Z</pubDate>
+    </item>
+    <item>
+     <title>tabcompletion</title>
+     <description>stdin tab completion library</description>
+     <link>https://nimble.directory/pkg/tabcompletion</link>
+     <guid isPermaLink="true">https://nimble.directory/pkg/tabcompletion</guid>
+     <pubDate>Sat, 15 Oct 2022 04:48:27 Z</pubDate>
     </item>
   </channel>
 </rss>
